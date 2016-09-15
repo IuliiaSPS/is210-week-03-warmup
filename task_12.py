@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-
+""" Decimal and Fraction calculations"""
 
 import decimal
 
